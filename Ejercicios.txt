@@ -8,4 +8,4 @@ Desde lo más simple:
 Hasta algo más complejo:
     -Funciones
     -Leer y extraer información sobre los scripts
-    -Trabajar con librerias(Gráficas)
+    -Trabajar con librerias(Gráfica
