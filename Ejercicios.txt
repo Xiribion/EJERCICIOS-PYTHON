@@ -1,0 +1,11 @@
+Recopilacion de Ejercicios basicos de Python
+
+Desde lo más simple:
+    -Print
+    -Calculos
+    -Ciclos
+    
+Hasta algo más complejo:
+    -Funciones
+    -Leer y extraer información sobre los scripts
+    -Trabajar con librerias(Gráficas)
